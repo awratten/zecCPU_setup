@@ -22,7 +22,3 @@ echo "        nheqminer -l zec-us.suprnova.cc:2142 -u awratten.HIVE -p x -t 6" >
 #echo "* * * * * root ~/launch.sh" >> /etc/crontab
 
 screen ./launch.sh
-
-
-
-#./nheqminer -l zec.suprnova.cc:2142 -u t1XahugqJM2WPQ4zLdZiVjirRkG2yBz9AFS -p x
